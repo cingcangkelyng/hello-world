@@ -2,4 +2,4 @@
 New repository
 
 Hello, Rahman here
-I'm about to change my life and the world.
+I'm about to make first web on github pages.
